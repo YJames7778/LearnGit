@@ -14,6 +14,7 @@ class TaxCalculatorApp(App):
 
         #Git is a distributed version control system.
         #Git is free software.
+        #Git is free software distributed under the GPL.
 
         
         layout = BoxLayout(orientation='vertical', padding=10, spacing=10)
