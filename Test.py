@@ -1,3 +1,7 @@
+
+
+
+
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.label import Label
@@ -6,6 +10,12 @@ from kivy.uix.button import Button
 
 class TaxCalculatorApp(App):
     def build(self):
+
+
+        #Git is a distributed version control system.
+        #Git is free software.
+
+        
         layout = BoxLayout(orientation='vertical', padding=10, spacing=10)
         
         # 创建标签和文本输入框以收集用户的收入信息
